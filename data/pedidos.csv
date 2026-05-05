@@ -1,0 +1,6 @@
+id,cliente_id,produto_id,quantidade,valor_total,data_pedido,status
+1,1,1,1,3500.00,2024-01-10,entregue
+2,2,2,2,160.00,2024-01-12,entregue
+3,3,3,1,150.00,2024-01-15,em_transito
+4,4,4,1,1200.00,2024-01-18,processando
+5,5,5,2,500.00,2024-01-20,processando

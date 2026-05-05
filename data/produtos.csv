@@ -1,0 +1,6 @@
+id,nome,categoria,preco,estoque
+1,Notebook Dell,Eletronicos,3500.00,50
+2,Mouse Logitech,Perifericos,80.00,200
+3,Teclado Mecanico,Perifericos,150.00,120
+4,Monitor 24pol,Eletronicos,1200.00,75
+5,Headset Gaming,Perifericos,250.00,90

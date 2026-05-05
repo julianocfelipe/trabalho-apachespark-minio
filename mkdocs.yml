@@ -1,0 +1,42 @@
+site_name: Apache Spark com Delta Lake e MinIO
+site_description: Trabalho de Engenharia de Dados - SATC 2026
+site_author: Juliano Felipe
+repo_url: https://github.com/julianocfelipe/trabalho-apachespark-minio
+repo_name: julianocfelipe/trabalho-apachespark-minio
+
+theme:
+  name: material
+  language: pt
+  palette:
+    - scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Modo escuro
+    - scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Modo claro
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Início: index.md
+  - Pipeline: pipeline.md
