@@ -4,7 +4,7 @@ services:
     container_name: sqlserver-2022
     environment:
       ACCEPT_EULA: "Y"
-      MSSQL_SA_PASSWORD: "SqlServer@2025!"
+      MSSQL_SA_PASSWORD: "SqlServer@2026!"
       MSSQL_PID: "Developer"
     ports:
       - "1433:1433"

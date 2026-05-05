@@ -62,7 +62,7 @@ Credenciais:
 
 | Serviço | Usuário | Senha |
 |---------|---------|-------|
-| SQL Server | `sa` | `SqlServer@2025!` |
+| SQL Server | `sa` | `SqlServer@2026!` |
 | MinIO | `minioadmin` | `minioadmin` |
 
 Console MinIO: http://localhost:9021
